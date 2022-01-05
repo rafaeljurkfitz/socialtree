@@ -22,4 +22,4 @@ Figma: https://www.figma.com/file/5sxkg1xQMu6DKp95rdNvsj/DD-%2F-Social-links-(Co
 ##
 
 ### Deploy
-rafaeljurkfitz.github.io/socialtree/
+https://rafaeljurkfitz.github.io/socialtree/
