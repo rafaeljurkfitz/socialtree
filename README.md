@@ -1,7 +1,7 @@
 # Socialtree
 
 <p align="center">
-  <img alt="socialtree-image" src="images/print-socialtree.png" width="100%">
+  <img alt="socialtree-image" src="images/socialtree-image.png" width="100%">
 </p>
 
 ##
